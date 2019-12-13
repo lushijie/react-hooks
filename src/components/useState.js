@@ -1,5 +1,3 @@
-// 对于 getSnapshotBeforeUpdate, getDerivedStateFromError, componentDidCatch 目前 Hooks 是无法模拟的
-
 import React, { useState } from 'react';
 
 export default function () {
